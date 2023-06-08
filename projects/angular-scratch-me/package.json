@@ -1,0 +1,15 @@
+{
+  "name": "angular-scratch-me",
+  "version": "0.0.1",
+  "description": "without flutter based href",
+  "peerDependencies": {
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0",
+    "@angular/material": "^16.0.3",
+    "public-flutter": "^1.0.17"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
